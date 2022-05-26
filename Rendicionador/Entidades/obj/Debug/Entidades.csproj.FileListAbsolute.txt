@@ -1,0 +1,29 @@
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\bin\Debug\itextsharp.dll
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\bin\Debug\itextsharp.xml
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\source\repos\Rendicionador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Debug\itextsharp.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Debug\itextsharp.xml
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Debug\itextsharp.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Debug\itextsharp.xml
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,34 @@
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\Rendicionador.exe
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\Rendicionador.pdb
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\itextsharp.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\bin\Release\itextsharp.xml
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.FormCargaItems.resources
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.FormFecha.resources
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.FormInicio.resources
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.Properties.Resources.resources
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.csproj.CopyComplete
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.exe
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Rendicionador\obj\Release\Rendicionador.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\Rendicionador.exe
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\Rendicionador.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\itextsharp.dll
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\bin\Release\itextsharp.xml
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.FormCargaItems.resources
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.FormFecha.resources
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.FormInicio.resources
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.Properties.Resources.resources
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.csproj.CopyComplete
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.exe
+C:\Users\Gonza\Desktop\Rendicionador\Rendicionador\obj\Release\Rendicionador.pdb

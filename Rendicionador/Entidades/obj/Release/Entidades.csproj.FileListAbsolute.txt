@@ -1,0 +1,20 @@
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Release\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Release\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Release\itextsharp.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\bin\Release\itextsharp.xml
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Release\Entidades.csproj.CopyComplete
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Release\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador Print OK\Entidades\obj\Release\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Release\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Release\Entidades.pdb
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Release\itextsharp.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\bin\Release\itextsharp.xml
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Release\Entidades.csproj.CopyComplete
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Release\Entidades.dll
+C:\Users\Gonza\Desktop\Rendicionador\Entidades\obj\Release\Entidades.pdb
